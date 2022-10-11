@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.py" -delete | ! find -name "/*.js"
+find . type -f -name "*.py" -delete
