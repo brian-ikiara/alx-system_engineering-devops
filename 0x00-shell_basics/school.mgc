@@ -1,2 +1,2 @@
 #!/bin/bash
-find School -type f -exec grep -ri "SCHOOL" {} \
+51 "SCHOOL" 54 School
